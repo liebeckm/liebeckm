@@ -1,8 +1,8 @@
 ### Hello there 👋
 ----
-My name is Melissa Liebeck, I live in Kassel, Germany.
+My name is **Melissa Liebeck**, I live in _Kassel, Germany_.
 
-I like learning new things and want to get skilled in Web Development.
+I like learning new things and want to get skilled in *Web Development*.
 
 Before neue fische Bootcamp, I worked in Marketing in different industries, such as food or culture but also gained experiences in an advertising agency.
 
@@ -14,3 +14,7 @@ Besides the internet, I'm interested in the following things:
 - photography
 - painting
 - arthouse movies
+
+<a href="https://www.linkedin.com/in/melissaliebeck/" img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="linkedin button" width="100" height="auto" target=”_blank”></a>
+
+[![](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://www.linkedin.com/in/melissaliebeck/)
