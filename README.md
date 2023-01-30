@@ -15,5 +15,5 @@ Before neue fische Bootcamp, I worked in Marketing in different industries, such
 - photography 📸
 - painting 🎨
 - arthouse movies 🎬
-
-<a href="https://www.linkedin.com/in/melissaliebeck/" target=”_blank” rel="noopener"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="linkedin button" width="100" height="auto"/></a>
+---
+<a href="https://www.linkedin.com/in/melissaliebeck/" target=”_blank” rel="noopener"><img src="https://github.com/liebeckm/liebeckm/blob/main/linkedin.png?raw=true" alt="linkedin button" width="40" height="auto"/></a>
