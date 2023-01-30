@@ -1,12 +1,13 @@
 👋 Welcome to my GitHub page! 👋
 ----
+<img src="https://github.com/liebeckm/liebeckm/blob/main/giphy.gif?raw=true" width="400" height="auto"/>
+
 My name is **Melissa Liebeck**, I live in _Kassel, Germany_.
 
 I like learning new things and want to get skilled in *Web Development*.
 
-Before neue fische Bootcamp, I worked in Marketing in different industries, such as food or culture but also gained experiences in an advertising agency.
 
-![link](https://media1.giphy.com/media/XreQmk7ETCak0/giphy.gif?cid=ecf05e47iqgk1k738oy0obwgi4eouy5t9zqzwwb951yno6rj&rid=giphy.gif&ct=g)
+Before neue fische Bootcamp, I worked in Marketing in different industries, such as food or culture but also gained experiences in an advertising agency.
 
 ## Besides the internet, I'm interested in the following things:
 - dogs 🐶
