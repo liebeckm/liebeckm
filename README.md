@@ -15,6 +15,4 @@ Besides the internet, I'm interested in the following things:
 - painting
 - arthouse movies
 
-<a href="https://www.linkedin.com/in/melissaliebeck/" img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="linkedin button" width="100" height="auto" target=”_blank”></a>
-
-[![](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://www.linkedin.com/in/melissaliebeck/)
+<a href="https://www.linkedin.com/in/melissaliebeck/" target=”_blank”><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="linkedin button" width="100" height="auto"></a>
